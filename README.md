@@ -9,7 +9,7 @@ Este proyecto contiene el archivo HTML de GitHub Advanced Search para navegar de
 
 Download:
 
-[Descargar archivo](https://raw.githubusercontent.com/Resecitud1997/Github-navegation/blob/44f66e41b06d398a16dfd38529294a67b7b4d4b2/GitHubAdvancedSearch-Setup.exe)
+[Descargar archivo](https://github.com/Resecitud1997/Github-navegation/blob/main/GitHubAdvancedSearch-Setup.exe)
 
 ## Uso de la Aplicación
 
