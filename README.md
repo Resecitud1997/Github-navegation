@@ -19,7 +19,7 @@ Download:
 100% funcional
 
 ### La aplicación no se abre
-Verifica que el archivo .html este dentro de la extensión index.html
+Verifica que el archivo .html este dentro de la extensión del archivo llamado: index.html
 
 ## Notas
 
